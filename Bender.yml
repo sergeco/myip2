@@ -1,0 +1,7 @@
+package:
+  name: myip2
+  authors:
+    - "Your Name <your.email@example.com>"
+
+sources:
+  - src/myip2.sv
