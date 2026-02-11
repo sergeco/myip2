@@ -7,7 +7,7 @@ module myip2 (
 
     always_comb begin
         if (select_i) begin
-            data_o = 16'd1101;
+            data_o = 16'd1201;
         end else begin
             data_o = 16'h0000;
         end
